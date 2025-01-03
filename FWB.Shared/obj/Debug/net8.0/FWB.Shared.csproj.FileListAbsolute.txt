@@ -1,0 +1,14 @@
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.AssemblyInfoInputs.cache
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.AssemblyInfo.cs
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.csproj.CoreCompileInputs.cache
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.csproj.AssemblyReference.cache
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.Resources.Solutions.resources
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.csproj.GenerateResource.cache
+D:\Husam\Fantasy\FWB\FWB.Shared\bin\Debug\net8.0\FWB.Shared.deps.json
+D:\Husam\Fantasy\FWB\FWB.Shared\bin\Debug\net8.0\FWB.Shared.dll
+D:\Husam\Fantasy\FWB\FWB.Shared\bin\Debug\net8.0\FWB.Shared.pdb
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.dll
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\refint\FWB.Shared.dll
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\FWB.Shared.pdb
+D:\Husam\Fantasy\FWB\FWB.Shared\obj\Debug\net8.0\ref\FWB.Shared.dll

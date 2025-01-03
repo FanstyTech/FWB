@@ -1,0 +1,16 @@
+D:\Husam\Fantasy\FWB\FWB\bin\Debug\FWB.dll
+D:\Husam\Fantasy\FWB\FWB\bin\Debug\FWB.pdb
+D:\Husam\Fantasy\FWB\FWB\bin\Debug\FWB.pkgdef
+D:\Husam\Fantasy\FWB\FWB\bin\Debug\FWB.vsix
+D:\Husam\Fantasy\FWB\FWB\bin\Debug\extension.vsixmanifest
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\FWB.csproj.AssemblyReference.cache
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\_EmptyResource.resources
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\FWB.csproj.GenerateResource.cache
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\FWB.csproj.CoreCompileInputs.cache
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\FWB.dll
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\FWB.pdb
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\FWB.pkgdef
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\FWB.latest.pkgdef
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\extension.vsixmanifest
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\files.json
+D:\Husam\Fantasy\FWB\FWB\obj\Debug\createTemplateManifests.cache
