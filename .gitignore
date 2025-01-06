@@ -4,10 +4,7 @@
 
 /.vs/FWB/FileContentIndex/0b9fe607-fa99-42a1-8080-c89dd9a5426b.vsidx
 /FWB.Shared/obj/Debug/net8.0/refint/FWB.Shared.dll
-/FWB.Shared/obj/Debug
-/FWB.Shared/obj/bin
-/FWB/bin/Debug/FWB.dll
-/FWB/bin/Debug/FWB.pdb
-/FWB/bin/Debug/FWB.vsix
-/FWB/obj/Debug/FWB.csproj.AssemblyReference.cache
-/FWB/obj/Debug/FWB.dll
+/FWB.Shared/obj
+/FWB.Shared/bin
+/FWB/bin
+/FWB/obj
