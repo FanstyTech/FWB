@@ -4,3 +4,5 @@
 
 /.vs/FWB/FileContentIndex/0b9fe607-fa99-42a1-8080-c89dd9a5426b.vsidx
 /FWB.Shared/obj/Debug/net8.0/refint/FWB.Shared.dll
+/FWB.Shared/obj/Debug
+/FWB.Shared/obj/bin
