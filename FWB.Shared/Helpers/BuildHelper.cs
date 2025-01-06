@@ -59,19 +59,30 @@ namespace FWB.Shared.Helpers
         }
         public static void Help(string version)
         {
+            string fwbAsciiArt = @"
+                      _____                ____   
+                     |"" ___|__        __U | __"")u 
+                    U| |_  u\""\      /""/ \|  _ \/ 
+                    \|  _|/ /\ \ /\ / /\  | |_) | 
+                     |_|   U  \ V  V /  U |____/  
+                     )(\\,-.-,_\ /\ /_,-._|| \\_  
+                    (__)(_/ \_)-'  '-(_/(__) (__) 
+                    ";
+
 
             Output.Warning($"""
 
-.___  ___. .___  ___.      ___      
-|   \/   | |   \/   |     /   \     
-|  \  /  | |  \  /  |    /  ^  \    
-|  |\/|  | |  |\/|  |   /  /_\  \   
-|  |  |  | |  |  |  |  /  _____  \  
-|__|  |__| |__|  |__| /__/     \__\ 
+  _____                ____   
+ |" ___|__        __U | __")u 
+U| |_  u\"\      /"/ \|  _ \/ 
+\|  _|/ /\ \ /\ / /\  | |_) | 
+ |_|   U  \ V  V /  U |____/  
+ )(\\,-.-,_\ /\ /_,-._|| \\_  
+(__)(_/ \_)-'  '-(_/(__) (__) 
 
 
 NAME:
-   mma {version.Split('+')[0]}
+   fwb {version.Split('+')[0]}
 
 USAGE:
    mma [global options] command [command options] [arguments...]
