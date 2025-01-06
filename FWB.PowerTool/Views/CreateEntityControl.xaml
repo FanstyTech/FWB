@@ -1,4 +1,4 @@
-﻿<UserControl x:Class="FWB.PowerTool.Views.CreateEntityControl"
+﻿<Window  x:Class="FWB.PowerTool.Views.CreateEntityControl"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
@@ -6,6 +6,7 @@
              xmlns:vsshell="clr-namespace:Microsoft.VisualStudio.Shell;assembly=Microsoft.VisualStudio.Shell.15.0"
              Background="#333333"
              mc:Ignorable="d"     
+             WindowStyle="ThreeDBorderWindow"
              x:Name="MyToolWindow" Height="600" Width="1100" >
     <Grid>
         <TabControl Background="#333333" Foreground="White" FontSize="14">
@@ -159,4 +160,4 @@
         </StackPanel>
     </Grid>
 
-</UserControl>
+</Window>

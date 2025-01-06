@@ -1,13 +1,12 @@
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Windows;
-using System.Windows.Controls;
 
 namespace FWB.PowerTool.Views
 {
     /// <summary>
     /// Interaction logic for CreateEntityControl.
     /// </summary>
-    public partial class CreateEntityControl : UserControl
+    public partial class CreateEntityControl : Window
     {
         /// <summary>
         /// Initializes a new instance of the <see cref="CreateEntityControl"/> class.

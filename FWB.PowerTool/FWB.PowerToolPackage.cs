@@ -1,7 +1,6 @@
 ﻿using FWB.PowerTool.Model;
 using FWB.PowerTool.Views;
 using Microsoft.VisualStudio.Shell;
-using Microsoft.VisualStudio.Shell.Interop;
 using System;
 using System.ComponentModel.Design;
 using System.Runtime.InteropServices;
@@ -97,16 +96,8 @@ namespace FWB.PowerTool
 
         private void ShowToolWindow(object sender, EventArgs e)
         {
-            // Get the instance of the Tool Window
-            ToolWindowPane toolWindow = this.FindToolWindow(typeof(CreateEntity), 0, true);
-            if (toolWindow?.Frame == null)
-            {
-                throw new NotSupportedException("Cannot create tool window");
-            }
-
-            // Show the Tool Window
-            IVsWindowFrame windowFrame = (IVsWindowFrame)toolWindow.Frame;
-            Microsoft.VisualStudio.ErrorHandler.ThrowOnFailure(windowFrame.Show());
+            CreateEntityControl window = new CreateEntityControl();
+            window.Show();
         }
         #endregion
     }
