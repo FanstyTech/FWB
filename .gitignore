@@ -6,3 +6,8 @@
 /FWB.Shared/obj/Debug/net8.0/refint/FWB.Shared.dll
 /FWB.Shared/obj/Debug
 /FWB.Shared/obj/bin
+/FWB/bin/Debug/FWB.dll
+/FWB/bin/Debug/FWB.pdb
+/FWB/bin/Debug/FWB.vsix
+/FWB/obj/Debug/FWB.csproj.AssemblyReference.cache
+/FWB/obj/Debug/FWB.dll
