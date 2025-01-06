@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Husam\\Fantasy\\FWB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|d:\\husam\\fantasy\\fwb\\fwb.powertools\\fwb.powertoolspackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|solutionrelative:fwb.powertools\\fwb.powertoolspackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|d:\\husam\\fantasy\\fwb\\fwb.powertools\\views\\fwbpowertoolspackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|solutionrelative:fwb.powertools\\views\\fwbpowertoolspackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|d:\\husam\\fantasy\\fwb\\fwb.powertools\\views\\createentitycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|solutionrelative:fwb.powertools\\views\\createentitycontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|d:\\husam\\fantasy\\fwb\\fwb.powertools\\views\\createentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|solutionrelative:fwb.powertools\\views\\createentitycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|d:\\husam\\fantasy\\fwb\\fwb.powertools\\views\\createentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|solutionrelative:fwb.powertools\\views\\createentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|d:\\husam\\fantasy\\fwb\\fwb.powertools\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}",
+      "RelativeMoniker": "D:0:0:{15C357CA-14F1-4B91-9D08-42511E60F287}|FWB.PowerTools\\FWB.PowerTools.csproj|solutionrelative:fwb.powertools\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEntity.cs",
+              "DocumentMoniker": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\CreateEntity.cs",
+              "RelativeDocumentMoniker": "FWB.PowerTools\\Views\\CreateEntity.cs",
+              "ToolTip": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\CreateEntity.cs",
+              "RelativeToolTip": "FWB.PowerTools\\Views\\CreateEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:59:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "source.extension.vsixmanifest [Design]",
+              "DocumentMoniker": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\source.extension.vsixmanifest",
+              "RelativeDocumentMoniker": "FWB.PowerTools\\source.extension.vsixmanifest",
+              "ToolTip": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\source.extension.vsixmanifest [Design]",
+              "RelativeToolTip": "FWB.PowerTools\\source.extension.vsixmanifest [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-01-06T08:53:41.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FWBPowerToolsPackage.vsct",
+              "DocumentMoniker": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\FWBPowerToolsPackage.vsct",
+              "RelativeDocumentMoniker": "FWB.PowerTools\\Views\\FWBPowerToolsPackage.vsct",
+              "ToolTip": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\FWBPowerToolsPackage.vsct",
+              "RelativeToolTip": "FWB.PowerTools\\Views\\FWBPowerToolsPackage.vsct",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-01-06T08:53:10.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateEntityControl.xaml",
+              "DocumentMoniker": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\CreateEntityControl.xaml",
+              "RelativeDocumentMoniker": "FWB.PowerTools\\Views\\CreateEntityControl.xaml",
+              "ToolTip": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\CreateEntityControl.xaml",
+              "RelativeToolTip": "FWB.PowerTools\\Views\\CreateEntityControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-06T08:53:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateEntityCommand.cs",
+              "DocumentMoniker": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\CreateEntityCommand.cs",
+              "RelativeDocumentMoniker": "FWB.PowerTools\\Views\\CreateEntityCommand.cs",
+              "ToolTip": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\Views\\CreateEntityCommand.cs",
+              "RelativeToolTip": "FWB.PowerTools\\Views\\CreateEntityCommand.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAzwE4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:53:03.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FWB.PowerToolsPackage.cs",
+              "DocumentMoniker": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\FWB.PowerToolsPackage.cs",
+              "RelativeDocumentMoniker": "FWB.PowerTools\\FWB.PowerToolsPackage.cs",
+              "ToolTip": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTools\\FWB.PowerToolsPackage.cs",
+              "RelativeToolTip": "FWB.PowerTools\\FWB.PowerToolsPackage.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwFkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T08:51:57.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
