@@ -8,7 +8,7 @@
 /FWB.Shared/bin
 /FWB/bin
 /FWB/obj
-/.vs
+/.vs/
 /.vs/FWB/FileContentIndex/0429695e-15d3-490c-b296-9c804abb9479.vsidx
 /.vs/FWB/FileContentIndex/0594aada-536c-4912-a8ed-63dc9568d6bc.vsidx
 /.vs/FWB/FileContentIndex/077d8303-200a-4e61-bfaf-1d7b8049d3c2.vsidx
@@ -24,6 +24,8 @@
 /.vs/FWB/v17/DocumentLayout.backup.json
 /.vs/FWB/v17/DocumentLayout.json
 /FWB/bin/Debug/FWB.dll
+/FWB/bin/
+/FWB/obj/
 /FWB/bin/Debug/FWB.pdb
 /FWB/bin/Debug/FWB.vsix
 /FWB/obj/Debug/files.json
@@ -36,6 +38,8 @@
 /FWB.PowerTool/bin/Debug/FWB.PowerTool.pdb
 /FWB.PowerTool/bin/Debug/FWB.PowerTool.vsix
 /FWB.PowerTool/obj/Debug/FWB.PowerTool.csproj.AssemblyReference.cache
+/FWB.PowerTool/bin/
+/FWB.PowerTool/obj/
 /FWB.PowerTool/obj/Debug/FWB.PowerTool.csproj.GenerateResource.cache
 /FWB.PowerTool/obj/Debug/FWB.PowerTool.dll
 /FWB.PowerTool/obj/Debug/FWB.PowerTool.pdb
@@ -43,6 +47,8 @@
 /FWB.Shared/bin/Debug/net8.0/FWB.Shared.dll
 /FWB.Shared/bin/Debug/net8.0/FWB.Shared.pdb
 /FWB.Shared/obj/Debug/net8.0/FWB.Shared.AssemblyInfo.cs
+/FWB.Shared/bin/
+/FWB.Shared/obj/
 /FWB.Shared/obj/Debug/net8.0/FWB.Shared.AssemblyInfoInputs.cache
 /FWB.Shared/obj/Debug/net8.0/FWB.Shared.csproj.FileListAbsolute.txt
 /FWB.Shared/obj/Debug/net8.0/FWB.Shared.csproj.GenerateResource.cache
