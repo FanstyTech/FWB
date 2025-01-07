@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FWB.Shared
-build_property.ProjectDir = D:\Husam\Fantasy\FWB\FWB.Shared\
+build_property.ProjectDir = C:\Users\Bakr\source\repos\FanstyTech\FWB\FWB.Shared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

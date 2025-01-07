@@ -129,19 +129,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mr-Husam\\.nuget\\packages\\": {}
+    "C:\\Users\\Bakr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Husam\\Fantasy\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
       "projectName": "FWB.Shared",
-      "projectPath": "D:\\Husam\\Fantasy\\FWB\\FWB.Shared\\FWB.Shared.csproj",
-      "packagesPath": "C:\\Users\\Mr-Husam\\.nuget\\packages\\",
-      "outputPath": "D:\\Husam\\Fantasy\\FWB\\FWB.Shared\\obj\\",
+      "projectPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+      "packagesPath": "C:\\Users\\Bakr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mr-Husam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bakr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -202,7 +202,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
