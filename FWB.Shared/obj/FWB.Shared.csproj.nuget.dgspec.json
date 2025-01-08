@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj": {}
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj": {
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
         "projectName": "FWB.Shared",
-        "projectPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+        "projectPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
         "packagesPath": "C:\\Users\\Bakr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\obj\\",
         "projectStyle": "PackageReference",

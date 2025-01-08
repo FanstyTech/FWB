@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GqviPo/lbRs=",
+  "dgSpecHash": "2p/oIZkagHE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
+  "projectFilePath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bakr\\.nuget\\packages\\envdte\\17.0.32112.339\\envdte.17.0.32112.339.nupkg.sha512",
     "C:\\Users\\Bakr\\.nuget\\packages\\envdte100\\17.0.32112.339\\envdte100.17.0.32112.339.nupkg.sha512",

@@ -4,6 +4,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:vsshell="clr-namespace:Microsoft.VisualStudio.Shell;assembly=Microsoft.VisualStudio.Shell.15.0"
+             xmlns:local="clr-namespace:FWB.PowerTool.Views"
              Background="#FF2D2D2D"
              mc:Ignorable="d"     
              Title="FWB.PowerTool - Entity Generator"
@@ -167,10 +168,8 @@
                 </Grid>
             </TabItem>
 
-            <TabItem Header="Properties" Foreground="#AAAAAA" Margin="150,0,-150,0">
-                <Grid>
-                    <!-- Properties Content -->
-                </Grid>
+            <TabItem Header="Properties" Foreground="White" FontWeight="SemiBold" Margin="150,0,-150,0">
+                <local:PropertiesControl/>
             </TabItem>
 
             <TabItem Header="Navigation Properties" Foreground="#AAAAAA" Margin="150,0,-150,0">

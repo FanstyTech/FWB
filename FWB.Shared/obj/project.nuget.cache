@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhCXz4XK8yM=",
+  "dgSpecHash": "PsKod97rLYk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bakr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Bakr\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",

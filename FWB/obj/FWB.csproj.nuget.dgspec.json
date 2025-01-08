@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB\\FWB.csproj": {}
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB\\FWB.csproj": {
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB\\FWB.csproj",
+        "projectUniqueName": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj",
         "projectName": "FWB",
-        "projectPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB\\FWB.csproj",
+        "projectPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj",
         "packagesPath": "C:\\Users\\Bakr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB\\obj\\",
+        "outputPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [

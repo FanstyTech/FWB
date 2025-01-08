@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {}
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
+        "projectUniqueName": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
         "projectName": "FWB.PowerTool",
-        "projectPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
+        "projectPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
         "packagesPath": "C:\\Users\\Bakr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.PowerTool\\obj\\",
+        "outputPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
