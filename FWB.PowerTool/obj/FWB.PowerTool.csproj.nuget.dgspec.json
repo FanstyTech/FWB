@@ -1,21 +1,97 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {}
+    "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {
+    "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
+        "projectUniqueName": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
         "projectName": "FWB.PowerTool",
-        "projectPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
-        "packagesPath": "C:\\Users\\Bakr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.PowerTool\\obj\\",
+        "projectPath": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTool\\FWB.PowerTool.csproj",
+        "packagesPath": "C:\\Users\\Mr-Husam\\.nuget\\packages\\",
+        "outputPath": "D:\\Husam\\Fantasy\\FWB\\FWB.PowerTool\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Bakr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mr-Husam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj": {
+                "projectPath": "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[17.11.439, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[17.0.32112.339, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj",
+        "projectName": "FWB",
+        "projectPath": "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj",
+        "packagesPath": "C:\\Users\\Mr-Husam\\.nuget\\packages\\",
+        "outputPath": "D:\\Husam\\Fantasy\\FWB\\FWB\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mr-Husam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,7 +117,7 @@
           "dependencies": {
             "Microsoft.VSSDK.BuildTools": {
               "target": "Package",
-              "version": "[17.11.439, )"
+              "version": "[17.11.435, )"
             },
             "Microsoft.VisualStudio.SDK": {
               "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",

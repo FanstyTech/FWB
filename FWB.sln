@@ -8,6 +8,10 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FWB.Shared", "FWB.Shared\FWB.Shared.csproj", "{1BC56C73-560A-4E11-A1CC-DD85C8C508D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FWB.PowerTool", "FWB.PowerTool\FWB.PowerTool.csproj", "{44EEC3E9-9608-4F58-9D20-2FDB46BE3158}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1BC56C73-560A-4E11-A1CC-DD85C8C508D2} = {1BC56C73-560A-4E11-A1CC-DD85C8C508D2}
+		{5D0053D4-8492-49A9-BFF2-2AC3D23E46D2} = {5D0053D4-8492-49A9-BFF2-2AC3D23E46D2}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
