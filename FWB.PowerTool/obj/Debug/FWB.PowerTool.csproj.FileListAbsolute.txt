@@ -70,3 +70,7 @@ D:\Husam\Fantasy\FWB\FWB.PowerTool\bin\Debug\FWB.pdb
 D:\Husam\Fantasy\FWB\FWB.PowerTool\obj\Debug\FWB.Powe.4A0E2DF5.Up2Date
 D:\Husam\Fantasy\FWB\FWB.PowerTool\obj\Debug\VSCT.read.1.tlog
 D:\Husam\Fantasy\FWB\FWB.PowerTool\obj\Debug\VSCT.write.1.tlog
+C:\Users\Bakr\source\repos\FanstyTech\FWB\FWB.PowerTool\obj\Debug\Styles\ButtonStyles.baml
+C:\Users\Bakr\source\repos\FanstyTech\FWB\FWB.PowerTool\bin\Debug\FWB.dll
+C:\Users\Bakr\source\repos\FanstyTech\FWB\FWB.PowerTool\bin\Debug\FWB.pdb
+C:\Users\Bakr\source\repos\FanstyTech\FWB\FWB.PowerTool\obj\Debug\FWB.Powe.4A0E2DF5.Up2Date
