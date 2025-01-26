@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i2tPNHbvpN0=",
+  "dgSpecHash": "7TF6jw1f1Iw=",
   "success": true,
-  "projectFilePath": "D:\\Husam\\Fantasy\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Mr-Husam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\Mr-Husam\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",
-    "C:\\Users\\Mr-Husam\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512"
+    "C:\\Users\\Bakr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Bakr\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512",
+    "C:\\Users\\Bakr\\.nuget\\packages\\sharpziplib\\1.4.2\\sharpziplib.1.4.2.nupkg.sha512"
   ],
   "logs": []
 }

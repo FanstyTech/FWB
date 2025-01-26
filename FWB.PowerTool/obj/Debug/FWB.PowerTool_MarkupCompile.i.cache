@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\Husam\Fantasy\FWB\FWB.PowerTool\obj\Debug\
+C:\Users\Bakr\source\repos\FanstyTech\FWB\FWB.PowerTool\obj\Debug\
 FWB.PowerTool
 none
 false
@@ -13,8 +13,8 @@ DEBUG;TRACE
 41665298338
 6-816224500
 161891101041
-223585390202
+223593312638
 Styles\ButtonStyles.xaml;Views\CreateEntityControl.xaml;Views\PropertiesControl.xaml;Views\AddPropertyWindow.xaml;
 
-False
+True
 

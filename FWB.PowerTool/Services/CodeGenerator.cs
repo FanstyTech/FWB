@@ -22,29 +22,29 @@ namespace FWB.PowerTool.Services
         public void GenerateCode()
         {
             // Create an EntityBuilder instance
-            var builder = EntityBuilder.New(_mapper, _entityName, PkTypes.GUID);
+            //var builder = EntityBuilder.New(_mapper, _entityName, PkTypes.GUID);
 
-            // Set the solution path to our output directory
-            builder.SolutionPath = _outputPath;
+            //// Set the solution path to our output directory
+            //builder.SolutionPath = _outputPath;
 
-            // Generate all the necessary files
-            builder.GenerateModels()  // Generates ModifyModel and ReadModel
-                  .GenerateEntity()   // Generates the main entity
-                  .GenerateValidator() // Generates validator
-                  .GenerateService()  // Generates service layer
-                  .GenerateController(); // Generates API controller
+            //// Generate all the necessary files
+            //builder.GenerateModels()  // Generates ModifyModel and ReadModel
+            //      .GenerateEntity()   // Generates the main entity
+            //      .GenerateValidator() // Generates validator
+            //      .GenerateService()  // Generates service layer
+            //      .GenerateController(); // Generates API controller
 
-            // If using AutoMapper, it will automatically generate the mapping profile
-            if (_mapper == Mappers.AutoMapper)
-            {
-                builder.BuildAutoMapperProfile();
-            }
+            //// If using AutoMapper, it will automatically generate the mapping profile
+            //if (_mapper == Mappers.AutoMapper)
+            //{
+            //    builder.BuildAutoMapperProfile();
+            //}
 
-            // Generate entity configuration
-            builder.GenerateEntityConfig();
+            //// Generate entity configuration
+            //builder.GenerateEntityConfig();
 
-            // Update DbContext with the new entity
-            builder.DbContextMapping();
+            //// Update DbContext with the new entity
+            //builder.DbContextMapping();
         }
 
         private void EnsureDirectoryExists(string path)

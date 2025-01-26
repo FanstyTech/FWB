@@ -1,6 +1,6 @@
 using FWB.PowerTool.Model;
 using FWB.PowerTool.Services;
-using FWB.Shared.Consts;
+
 using System;
 using System.Collections.ObjectModel;
 using System.IO;
@@ -78,16 +78,16 @@ namespace FWB.PowerTool.ViewModels
                 // Create output directory if it doesn't exist
                 Directory.CreateDirectory(outputPath);
 
-                // Create code generator with AutoMapper as default
-                var codeGenerator = new CodeGenerator(
-                    outputPath, 
-                    EntityName, 
-                    Mappers.AutoMapper, 
-                    Properties
-                );
+                //// Create code generator with AutoMapper as default
+                //var codeGenerator = new CodeGenerator(
+                //    outputPath, 
+                //    EntityName, 
+                //    Mappers.AutoMapper, 
+                //    Properties
+                //);
 
                 // Generate all the code
-                codeGenerator.GenerateCode();
+                //codeGenerator.GenerateCode();
 
                 // Build the entity information string
                 string entityInfo = $@"
