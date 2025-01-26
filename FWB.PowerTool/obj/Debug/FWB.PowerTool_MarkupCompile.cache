@@ -4,7 +4,11 @@
 library
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Bakr\source\repos\FanstyTech\FWB\FWB.PowerTool\obj\Debug\
+=======
+C:\Users\Bakr\Source\Repos\FanstyTech\FWB\FWB.PowerTool\obj\Debug\
+>>>>>>> 39d45c20431e3fd3b01ef816393ef055adb5e6f7
 FWB.PowerTool
 none
 false
@@ -13,7 +17,11 @@ DEBUG;TRACE
 41665298338
 6-816224500
 15-321777637
+<<<<<<< HEAD
 223593312638
+=======
+223516398910
+>>>>>>> 39d45c20431e3fd3b01ef816393ef055adb5e6f7
 Styles\ButtonStyles.xaml;Views\CreateEntityControl.xaml;Views\PropertiesControl.xaml;Views\AddPropertyWindow.xaml;
 
 False

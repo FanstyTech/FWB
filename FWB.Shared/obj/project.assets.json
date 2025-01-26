@@ -134,11 +134,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
       "projectName": "FWB.Shared",
-      "projectPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
+      "projectPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\FWB.Shared.csproj",
       "packagesPath": "C:\\Users\\Bakr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Bakr\\source\\repos\\FanstyTech\\FWB\\FWB.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bakr\\AppData\\Roaming\\NuGet\\NuGet.Config",
