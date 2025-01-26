@@ -6,6 +6,7 @@
     <Nullable>enable</Nullable>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <EnableDefaultPageItems>false</EnableDefaultPageItems>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 
     <!-- VSIX specific settings -->
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
