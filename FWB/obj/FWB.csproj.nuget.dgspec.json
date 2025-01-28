@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj": {}
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj": {}
   },
   "projects": {
-    "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj": {
+    "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj",
+        "projectUniqueName": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj",
         "projectName": "FWB",
-        "projectPath": "D:\\Husam\\Fantasy\\FWB\\FWB\\FWB.csproj",
-        "packagesPath": "C:\\Users\\Mr-Husam\\.nuget\\packages\\",
-        "outputPath": "D:\\Husam\\Fantasy\\FWB\\FWB\\obj\\",
+        "projectPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\FWB.csproj",
+        "packagesPath": "C:\\Users\\Bakr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bakr\\Source\\Repos\\FanstyTech\\FWB\\FWB\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "UsingMicrosoftNETSdk": false,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Mr-Husam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Bakr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
